@@ -1,0 +1,12 @@
+{
+  "presets": [
+    "es2015",
+    "stage-0",
+    "react"
+  ],
+  "ignore": [
+    "__tests__",
+    "__tests__/**/*.js"
+  ],
+  "plugins": ["transform-decorators-legacy"]
+}
