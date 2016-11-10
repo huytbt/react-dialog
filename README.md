@@ -3,6 +3,10 @@
 [![Build Status](https://travis-ci.org/huytbt/react-dialog.svg?branch=master)](https://travis-ci.org/huytbt/react-dialog)
 [![License](https://img.shields.io/github/license/huytbt/react-dialog.svg)](https://github.com/huytbt/react-dialog/master/LICENSE)
 
+## Demonstration
+
+You can see demo [here](https://huytbt.github.io/react-dialog/)
+
 ## Installation
 
 ```bash
